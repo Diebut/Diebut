@@ -1,5 +1,5 @@
 ## Helloo :wave::wave:
-Mya name is Guevara Diego, I´m from Argentina. :shipit:
+My name is Guevara Diego, I´m from Argentina. :shipit:
 
 ## Skills :speech_balloon:
 
