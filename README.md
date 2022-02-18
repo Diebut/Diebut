@@ -1,6 +1,8 @@
 ## Helloo :wave::wave:
 My name is Guevara Diego, I´m from Argentina. :shipit:
 
+Developer Backend and Frontend
+
 ## Skills :speech_balloon:
 
 :cd: Manejo SQL Server, OracleDBA1 y aprendiendo Mongo
