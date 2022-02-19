@@ -17,7 +17,7 @@ Developer Backend and Frontend
 
 :gear:-JavasScript
 
-:eye: Otros habilidades en Diseño WEB -css -sass-
+:eye: Otros habilidades en Diseño WEB Nodejs -css -sass-
 
 :chart_with_downwards_trend: Curso de Testing Software QA (3 meses)
 
