@@ -1,11 +1,11 @@
 ## Helloo :wave::wave:
 My name is Guevara Diego, I´m from Argentina. :shipit:
 
-Developer Backend and Frontend
+Developer Front and Back end
 
 ## Skills :speech_balloon:
 
-:cd: Manejo SQL Server, OracleDBA1 y aprendiendo Mongo
+:cd: Manejo SQL Server Developer, OracleDBA1 y aprendiendo Mongo
 
 :technologist: Me destaco en manejo en
 
@@ -17,7 +17,7 @@ Developer Backend and Frontend
 
 :gear:-JavasScript
 
-:eye: Otros habilidades en Diseño WEB Nodejs -css -sass-
+:eye: Otros habilidades en Diseño WEB Nodejs -CSS -SASS-
 
 :chart_with_downwards_trend: Curso de Testing Software QA (3 meses)
 
