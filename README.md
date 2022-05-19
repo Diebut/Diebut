@@ -1,7 +1,7 @@
 ## Helloo :wave::wave:
 My name is Guevara Diego, I´m from Argentina. :shipit:
 
-Developer Front and Back end
+Developer Front and Backend
 
 ## Skills :speech_balloon:
 
