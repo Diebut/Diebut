@@ -5,7 +5,7 @@ Developer Front and Backend
 
 ## Skills :speech_balloon:
 
-:cd: Manejo SQL Server Developer- OracleDBA1 y aprendiendo MongoDB
+:cd: Manejo SQL Server Developer- OracleDBA1- PostgresSQL y aprendiendo MongoDB 
 
 :technologist: Me destaco en manejo en:
 
@@ -19,7 +19,7 @@ Developer Front and Backend
 
 :gear: -CSS -SASS
 
-:eye: Otros habilidades en Diseño WEB Nodejs
+:computer: :lock: Otros habilidades en Diseño WEB Nodejs Rest API
 
 :chart_with_downwards_trend: Curso de Testing Software QA (3 meses)
 
