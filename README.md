@@ -5,7 +5,7 @@ Developer Front and Backend
 
 ## Skills :speech_balloon:
 
-:cd: Manejo SQL Server Developer- OracleDBA1- PostgresSQL y aprendiendo MongoDB 
+:cd: Manejo SQL Server Developer- OracleDBA1- PostgresSQL y aprendiendo MongoDB, MySql 
 
 :technologist: Me destaco en manejo en:
 
