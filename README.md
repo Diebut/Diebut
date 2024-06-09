@@ -5,7 +5,7 @@ Developer Front and Backend
 
 ## Skills :speech_balloon:
 
-:cd: Manejo SQL Server Developer- OracleDBA1- PostgresSQL - aprendiendo MongoDB, MySql 
+:cd: Manejo SQL Server Developer- OracleDBA1- PostgresSQL - MongoDB básico - MySql 
 
 :technologist: Me destaco en manejo en:
 
@@ -19,20 +19,20 @@ Developer Front and Backend
 
 :gear:-JavasScript 
 
-:computer: :lock: Otros habilidades en Diseño WEB Nodejs Rest API
+:computer: :pushpin: Otros habilidades en Diseño WEB Nodejs Rest API
 
 :chart_with_downwards_trend: Curso de Testing Software QA (3 meses)
 
--Control de Version: Github - Bitbucket
+:round_pushpin: Control de Version: :octocat: Github - :dependabot: Bitbucket
 
--Gestion de Proyectos: JIRA
+:round_pushpin: Gestion de Proyectos: :large_blue_diamond: JIRA
 
--Herramienta de API: Postman
+:round_pushpin: Herramienta de API: Postman
 
-Especializándome: AWS (Amazon Web Services)
+:round_pushpin: Especializándome: AWS (Amazon Web Services)
 
 ## Contact :eye_speech_bubble:
-- @Contactame :+1: - por email📫:call_me_hand:
+- @Contactame :+1: - por email📫:call_me_hand: :trollface:
 
 
 <!---
