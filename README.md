@@ -1,38 +1,35 @@
-## Helloo :wave::wave:
-My name is Guevara Diego, I´m from Argentina. :shipit:
+## Welcome! :wave:
 
-Developer Front and Backend
+My name is Diego Guevara, hailing from Argentina. :shipit:
 
-## Skills :speech_balloon:
+### About Me :man_technologist:
 
-:cd: Manejo SQL Server Developer- OracleDBA1- PostgresSQL - MongoDB básico - MySql 
+I am a versatile developer proficient in both front-end and back-end technologies.
 
-:technologist: Me destaco en manejo en:
+### Skills :speech_balloon:
 
-:gear:-java Swing GUI
+- **Languages**: Java, C#, JavaScript
+- **Web Technologies**: HTML, CSS/SASS, Node.js
+- **Databases**: SQL Server, OracleDBA1, PostgreSQL, basic MongoDB, MySQL
+- **Frameworks/Libraries**: Java Swing GUI
 
-:gear:-C#
+### Additional Expertise :computer:
 
-:gear:-HTML
+- **Web Design**: Proficient in Node.js and REST API development.
+- **Quality Assurance**: Completed a 3-month Software QA Testing course.
+- **Version Control**: Experienced with Git (GitHub, Bitbucket) and dependency management with Dependabot.
+- **Project Management**: Familiar with JIRA for effective project tracking.
+- **API Tools**: Skilled in using Postman for API testing and development.
+- **Current Focus**: Specializing in Amazon Web Services (AWS).
 
-:gear: -CSS -SASS
+### Contact Me :email:
 
-:gear:-JavasScript 
+- **Email**: [YourEmail@example.com](mailto:YourEmail@example.com)
+- **LinkedIn**: [YourLinkedInProfile](https://www.linkedin.com/in/YourProfile)
+- **GitHub**: [YourGitHubProfile](https://github.com/YourProfile)
 
-:computer: :pushpin: Otros habilidades en Diseño WEB Nodejs Rest API
+Feel free to reach out to me! Let's connect and collaborate on exciting projects. :rocket:
 
-:chart_with_downwards_trend: Curso de Testing Software QA (3 meses)
-
-:round_pushpin: Control de Version: :octocat: Github - :dependabot: Bitbucket
-
-:round_pushpin: Gestion de Proyectos: :large_blue_diamond: JIRA
-
-:round_pushpin: Herramienta de API: Postman
-
-:round_pushpin: Especializándome: AWS (Amazon Web Services)
-
-## Contact :eye_speech_bubble:
-- @Contactame :+1: - por email📫:call_me_hand: :trollface:
 
 
 <!---
