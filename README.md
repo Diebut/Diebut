@@ -1,35 +1,34 @@
-## Welcome! :wave:
+## ¡Hola! :wave:
 
-My name is Diego Guevara, hailing from Argentina. :shipit:
+Mi nombre es Diego Guevara, soy de Argentina. :shipit:
 
-### About Me :man_technologist:
+### Sobre mí :man_technologist:
 
-I am a versatile developer proficient in both front-end and back-end technologies.
+Soy un desarrollador versátil con experiencia tanto en front-end como en back-end.
 
-### Skills :speech_balloon:
+### Habilidades :speech_balloon:
 
-- **Languages**: Java, C#, JavaScript
-- **Web Technologies**: HTML, CSS/SASS, Node.js
-- **Databases**: SQL Server, OracleDBA1, PostgreSQL, basic MongoDB, MySQL
-- **Frameworks/Libraries**: Java Swing GUI
+- **Lenguajes**: Java, C#, JavaScript
+- **Tecnologías Web**: HTML, CSS/SASS, Node.js
+- **Bases de Datos**: SQL Server, OracleDBA1, PostgreSQL, MongoDB básico, MySQL
+- **Frameworks/Librerías**: Java Swing GUI
 
-### Additional Expertise :computer:
+### Expertise Adicional :computer:
 
-- **Web Design**: Proficient in Node.js and REST API development.
-- **Quality Assurance**: Completed a 3-month Software QA Testing course.
-- **Version Control**: Experienced with Git (GitHub, Bitbucket) and dependency management with Dependabot.
-- **Project Management**: Familiar with JIRA for effective project tracking.
-- **API Tools**: Skilled in using Postman for API testing and development.
-- **Current Focus**: Specializing in Amazon Web Services (AWS).
+- **Diseño Web**: Competente en Node.js y desarrollo de APIs REST.
+- **Aseguramiento de Calidad**: Curso de 3 meses en Testing de Software QA.
+- **Control de Versiones**: Experiencia con Git (GitHub, Bitbucket) y gestión de dependencias con Dependabot.
+- **Gestión de Proyectos**: Familiarizado con JIRA para seguimiento efectivo de proyectos.
+- **Herramientas de API**: Habilidades en Postman para pruebas y desarrollo de APIs.
+- **Enfoque Actual**: Especializándome en Amazon Web Services (AWS).
 
-### Contact Me :email:
+### Contáctame :email:
 
-- **Email**: [YourEmail@example.com](mailto:YourEmail@example.com)
-- **LinkedIn**: [YourLinkedInProfile](https://www.linkedin.com/in/YourProfile)
-- **GitHub**: [YourGitHubProfile](https://github.com/YourProfile)
+- **Email**: [TuEmail@example.com](mailto:TuEmail@example.com)
+- **LinkedIn**: [TuPerfilLinkedIn](https://www.linkedin.com/in/TuPerfil)
+- **GitHub**: [TuPerfilGitHub](https://github.com/TuPerfil)
 
-Feel free to reach out to me! Let's connect and collaborate on exciting projects. :rocket:
-
+¡No dudes en contactarme! Vamos a conectar y colaborar en proyectos emocionantes. :rocket:
 
 
 <!---
