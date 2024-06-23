@@ -24,11 +24,18 @@ Soy un desarrollador versátil con experiencia tanto en front-end como en back-e
 
 ### Contáctame :email:
 
-- **Email**: [dieguitocordoba@gmail.com](mailto:TuEmail@example.com)
-- **LinkedIn**: [<img src="https://img.shields.io/badge/LinkedIn-Profile-blue">](https://www.linkedin.com)
-- **GitHub**: [<img src="https://img.shields.io/badge/GitHub-Profile-green">](https://github.com)
+- <img src="https://github.com/Diebut/Diebut/assets/56057944/28297870-511a-4ed7-a26b-710b7bba4bac" width="30"> [dieguitocordoba@gmail.com](mailto:TuEmail@example.com)
+- <img src="https://github.com/Diebut/Diebut/assets/56057944/e5f0c156-b6a4-4915-a53e-d5471eb36bf3" width="30"> [<img src="https://img.shields.io/badge/LinkedIn-Profile-blue">](https://www.linkedin.com)
 
 ¡No dudes en contactarme! Vamos a conectar y colaborar en proyectos emocionantes. :rocket:
+
+<img src="https://github.com/Diebut/Diebut/assets/56057944/e4782d65-5363-4c14-8fab-027a678abfff" width="300">
+
+<img src="https://github.com/Diebut/Diebut/assets/56057944/a690307d-1ee5-4c0c-b443-c81012170374" width="100">
+<img src="https://github.com/Diebut/Diebut/assets/56057944/6d01d1da-883e-48ce-beda-e73325657484" width="100">
+<img src="https://github.com/Diebut/Diebut/assets/56057944/862ef071-26dd-4fa1-a583-5b42fb6e729e" width="80">
+
+
 
 <!---
 Diebut/Diebut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
