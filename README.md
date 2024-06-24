@@ -13,7 +13,7 @@ Soy un desarrollador versátil con experiencia tanto en front-end como en back-e
 - **Bases de Datos**: SQL Server, OracleDBA1, PostgreSQL, MongoDB básico, MySQL
 - **Frameworks/Librerías**: Java Swing GUI
 
-### Expertise Adicional :computer:
+### Experiencia Adicional :computer:
 
 - **Diseño Web**: Competente en Node.js y desarrollo de APIs REST.
 - **Aseguramiento de Calidad**: Curso de 3 meses en Testing de Software QA.
