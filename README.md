@@ -17,7 +17,7 @@ Soy un desarrollador versátil con experiencia tanto en front-end como en back-e
 
 - **Diseño Web**: Competente en Node.js y desarrollo de APIs REST.
 - **Aseguramiento de Calidad**: Curso de 3 meses en Testing de Software QA.
-- **Control de Versiones**: Experiencia con Git ([GitHub](https://github.com/TuPerfil)) y gestión de dependencias con Dependabot.
+- **Control de Versiones**: Experiencia con Git, migracion y gestión en (Bitbucket - básico).
 - **Gestión de Proyectos**: Familiarizado con JIRA para seguimiento efectivo de proyectos.
 - **Herramientas de API**: Habilidades en Postman para pruebas y desarrollo de APIs.
 - **Enfoque Actual**: Especializándome en Amazon Web Services (AWS).
